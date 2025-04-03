@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ap-econ-game/static/css/main.2ad04586.css",
+    "main.js": "/ap-econ-game/static/js/main.80a401ea.js",
+    "index.html": "/ap-econ-game/index.html",
+    "main.2ad04586.css.map": "/ap-econ-game/static/css/main.2ad04586.css.map",
+    "main.80a401ea.js.map": "/ap-econ-game/static/js/main.80a401ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad04586.css",
+    "static/js/main.80a401ea.js"
+  ]
+}
